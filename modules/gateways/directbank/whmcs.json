@@ -1,0 +1,36 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "directbank",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Direct Bank Transfer",
+    "tagline": "Accept manual bank transfer payments for WHMCS invoices.",
+    "long": "Direct Bank Transfer allows clients to pay invoices by bank transfer and submit their name, transaction reference number, sender account or bank details, and paid amount for manual verification by your billing team.",
+    "features": [
+      "Manual bank transfer payment instructions on WHMCS invoices",
+      "Professional compact payment popup without breaking invoice layout",
+      "Bank account details with copy option",
+      "Customer name, transaction reference number, sender bank details, and paid amount submission",
+      "Payment verification through WHMCS support ticket",
+      "Payment proof submission by email",
+      "Configurable bank name, account name, account number, branch, routing number, business name, support email, and department ID"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://lionstarhost.com/",
+    "email": "support@lionstarhost.com",
+    "support_url": "https://lionstarhost.com/submitticket.php",
+    "docs_url": "https://lionstarhost.com/"
+  },
+  "authors": [
+    {
+      "name": "LionStar Host",
+      "homepage": "https://lionstarhost.com/"
+    }
+  ]
+}
